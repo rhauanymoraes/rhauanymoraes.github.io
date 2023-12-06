@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: About me
 subtitle: Observando o mundo através da lupa dos dados
 ---
