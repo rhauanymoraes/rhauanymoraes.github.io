@@ -4,4 +4,7 @@ title: About me
 subtitle: Observando o mundo através da lupa dos dados
 ---
 
-Graduada em Ciências Econômicas pela Universidade de São Paulo (USP), iniciei a minha carreira em modelagem de risco de crédito em uma Fintech especializada em oferecer empréstimos com garantia de imóvel. Guiada pelo interesse em dados, estatística, econometria e modelagem pude aprofundar meu conhecimento teórico nos temas em um Laboratório de Pesquisa em Microeconomia Aplicada na área de análise quantitativa. Atualmente trabalho na área de modelagem de riscos na B3. Possuo aptidão e interesse em desenvolver as competências de análise de dados e modelagem por meio das ferramentas R, Python, SQL e Power BI.
+Rhauany. 25 anos. São Paulo-SP. Brasil.
+
+Economista graduada pela Universidade de São Paulo (USP), descobri minha paixão por dados ainda na faculdade nas aulas de estatística, econometria e finanças. O campus da USP de Ribeirão Preto me deu a oportunidade de aplicar o conhecimento teórico adquirido em sala de aula como assistente de pesquisa no Laboratório de Estudos e Pesquisas em Economia Social (LEPES) na área de análise quantitativa em Economia Aplicada. Além das fronteiras da universidade, iniciei a minha carreira de dados em modelagem de risco de crédito em uma Fintech. Passei pela área de modelagem e análise quantitativa de risco da Bolsa de Valores do Brasil (B3). E atualmente trabalho com modelagem e análise quantitativa de risco de mercado em uma gestora de fundos de investimento.
+Esse Blog nasce do desejo de tirar os meus projetos do papel ao mesmo tempo que contribuo para a cultura #opensource e faço parte de uma comunidade de pessoas, que assim como eu, buscam observar o mundo a partir da lupa dos dados.
